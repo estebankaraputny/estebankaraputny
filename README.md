@@ -9,6 +9,8 @@
   <a href="www.linkedin.com/in/esteban-karaputny">
     <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" width="25" height="25" alt="Logo de LinkedIn">
   </a>
+  <a href="https://www.instagram.com/esteban_karaputny/">
+    <img src="https://iconos8.es/icon/Xy10Jcu1L2Su/instagram" alt="Logo de Instagram">
 </div>
 
 ---
@@ -43,6 +45,12 @@
 
 === 📈 My Stats:
 
+
+[![GitHub](http://github-readme-streak-stats.herokuapp.com?user=estebankaraputny&theme=merko&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![GitHub estebankaraputny](https://github-readme-stats.vercel.app/api?username=estebankaraputny&show_icons=true&theme=merko&border_color=merko)
+
+[![GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=estebankaraputny&langs_count=86theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
     
 **estebankaraputny/estebankaraputny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
