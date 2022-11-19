@@ -9,8 +9,9 @@
   <a href="www.linkedin.com/in/esteban-karaputny">
     <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" width="25" height="25" alt="Logo de LinkedIn">
   </a>
-  <a href="https://www.instagram.com/esteban_karaputny/">
+  <!-- <a href="https://www.instagram.com/esteban_karaputny/">
     <img src="https://iconos8.es/icon/Xy10Jcu1L2Su/instagram" alt="Logo de Instagram">
+  </a> -->
 </div>
 
 ---
