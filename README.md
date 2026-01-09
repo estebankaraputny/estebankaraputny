@@ -29,18 +29,18 @@
      <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="Logo HTML" title="HTML5" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="Logo CSS" title="CSS3" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Logo Tailwind" title="Tailwind" width="40"                         height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Logo Bootstrap" title="Bootstrap" width="40"                     height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Logo Tailwind" title="Tailwind" width="40"                         height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Logo JavaScript" title="JavaScript" width="40"                 height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" alt="Logo React" title="React" width="40"                         height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" alt="Logo Astro" title="Astro" width="40"                         height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Logo React" title="React" width="40"                         height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Logo TypeScript" title="TypeScript" width="40"                         height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Logo Docker" title="Docker" width="40"                         height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Logo NextJS" title="Next" width="40"                         height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="Logo NestJS" title="Nest" width="40"                         height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Logo Docker" title="Docker" width="40"                         height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="Logo MySQL" title="MySQL" width="40"                         height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="Logo PostgreSQL" title="PostgreSQL" width="40"                         height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg" alt="Logo PostgreSQL" title="PostgreSQL" width="40"                         height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg" alt="Logo Prisma" title="Prisma" width="40"                         height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="Logo Vite Js" title="ViteJS" width="40"                         height="40">     
         
 </div>
