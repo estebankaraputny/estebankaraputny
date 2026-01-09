@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" width="400" />
   <h1 align="center">Hi👋, I'm EstebanDev</h1>
-  <h3 aling="center">My passion is programming, specifically Front-End Developer, currently I like the JavaScript programming language</h3>
+  <h3 aling="center">My passion is programming, specifically Front-End Developer, currently I like the JavaScript programming language. I'm Full Stack Developer</h3>
 </div>
 
 <div align="center">
@@ -16,10 +16,10 @@
 
 - 🔭 I am currently studying Computer Engineering in UNAJ
 - 🌱 I'm currently learning Nest Js
-- 🤔 Soon I will learn TypeScript
+- 🤔 Soon I will learn Express
 - 😄 Pronouns: Gocchy
 - 💻 Project to be carried out: Digital Garden App
-- 👨‍💻 Target: FullStack Developer
+- 👨‍💻 FullStack Developer
 
 ---
 
